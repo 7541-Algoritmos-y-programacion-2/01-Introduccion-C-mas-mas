@@ -6,13 +6,13 @@ Algoritmos y Programación 2 - FI UBA
 
 Juego del ahorcado, construido como un ejemplo de aplicación desarrollada en C++.
 
-![Ahorcado](img/juego.gif)
+![Ahorcado](Ahorcado/img/juego.gif)
 
 ## Fuentes
 
- * [`principal.cpp`](../master/src/principal.cpp)
- * [`interacciones.h`](../master/src/interacciones.h)
- * [`interacciones.cpp`](../master/src/interacciones.cpp)
- * [`reglas.h`](../master/src/reglas.h)
- * [`reglas.cpp`](../master/src/reglas.cpp)
- * [`constantes.cpp`](../master/src/constantes.cpp)
+ * [`principal.cpp`](../master/Ahorcado/src/principal.cpp)
+ * [`interacciones.h`](../master/Ahorcado/src/interacciones.h)
+ * [`interacciones.cpp`](../master/Ahorcado/src/interacciones.cpp)
+ * [`reglas.h`](../master/Ahorcado/src/reglas.h)
+ * [`reglas.cpp`](../master/Ahorcado/src/reglas.cpp)
+ * [`constantes.cpp`](../master/Ahorcado/src/constantes.cpp)
