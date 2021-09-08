@@ -9,5 +9,5 @@ FI UBA - Algoritmos y Programación 2
 
 ### Fuentes
 
- * [`aleatorios.cpp`](../master/Numeros Aleatorios/src/aleatorios.cpp)
+ * [`aleatorios.cpp`](../master/Numeros%20Aleatorios/src/aleatorios.cpp)
 
