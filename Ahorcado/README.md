@@ -6,7 +6,7 @@ Algoritmos y Programación 2 - FI UBA
 
 Juego del ahorcado, construido como un ejemplo de aplicación desarrollada en C++.
 
-![Ahorcado](Ahorcado/img/juego.gif)
+![Ahorcado](../Ahorcado/img/juego.gif)
 
 ## Fuentes
 
